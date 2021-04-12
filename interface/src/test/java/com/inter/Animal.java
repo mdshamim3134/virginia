@@ -29,6 +29,7 @@ public abstract class D1{
 }
 public class Eat{
 	void eat() {
+		System.out.println(88);
 		
 	}
 }
